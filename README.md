@@ -3,3 +3,4 @@ Going through the Cohn-Kanade facial expression dataset to assemble the training
 
 Here are the results from the detection:
 
+![Surprise Detected](/Expression-Detection/surprise.png)
